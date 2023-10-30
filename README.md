@@ -1,2 +1,2 @@
 # qt-powermenu
-Linux power menu built with QT
+Simple QT6 application to logout/reboot/poweroff your system.
